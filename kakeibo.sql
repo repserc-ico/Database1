@@ -16,5 +16,5 @@ INSERT INTO 家計簿 VALUES('2024-02-11','教養娯楽費','書籍を購入',0,
 INSERT INTO 家計簿 VALUES('2024-02-14','交際費','同期会の会費',0,5000);
 INSERT INTO 家計簿 VALUES('2024-02-18','水道光熱費','1月の電気代',0,7560);
 SHOW TABLES;
-DESCRIBE 家計簿
-SELECT * FROM 家計簿
+DESCRIBE 家計簿;
+SELECT * FROM 家計簿;
