@@ -12,4 +12,12 @@ customer.csv
 company.csv  
 position.csv  
 ## 課題その１
-kadai1.txt  
+kadai1.txt 
+## 課題その２
+rpg_db.sql  
+rpg_import.sql  
+member.csv  
+equip.csv  
+weapon.csv  
+armor.csv  
+class.csv  
